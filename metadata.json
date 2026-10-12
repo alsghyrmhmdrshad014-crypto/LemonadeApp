@@ -1,0 +1,6 @@
+{
+  "name": "Lemonade",
+  "description": "Lemonade.gg - The AI Roblox Luau Code Studio & Generator. Build game mechanics, scripts, UI systems, and debug with an interactive Studio console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
